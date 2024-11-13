@@ -12,5 +12,5 @@ reset -> git remote set-url origin ssh
 
 >> git pull origin main    // if any changes do on github then it show you in your server also
 
- 
->> 
+>> aseeem raste me bhut dheeme dheeme chalta hai .
+>> vah mera bhut mja leta hai.
